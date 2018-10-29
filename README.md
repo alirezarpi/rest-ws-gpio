@@ -31,4 +31,6 @@ For authenticating users I used nginx auth_basic ( The project has no Authentica
 
 Or you can send GET request to get all of objects in the database.
 
-Note: This project is not really recommended for production purposes due to its simplicity :)
+**Note:** This project is not really recommended for production purposes due to its simplicity :)
+
+###### _ARRC = AlirezaRpi Remote Control_
