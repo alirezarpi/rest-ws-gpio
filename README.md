@@ -1,7 +1,7 @@
 # rest-ws-gpio
 Simple RESTful Web Service for Controling Raspberry pi GPIO(s)
 
-This project is using JSON for communication and controling each gpio with '0' or '1'.
+This project is using JSON for communication and controling each gpio with '0' or '1' in 'data' value.
 
 ### Working with it
 
